@@ -31,7 +31,7 @@ def predictDigits(data):
     print("예측 값: ", n)
 
 # 이미지 파일 수치 리스트로 변환하기
-data = imageToData("22.png")
+data = imageToData("2.png")
 
 # 숫자 예측하기
 print(data)
